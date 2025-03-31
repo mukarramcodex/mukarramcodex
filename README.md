@@ -20,7 +20,7 @@
 - **SEO-friendly web apps** with performance focus  
 
 ### 📫 How to Reach Me...  
-- 💼 LinkedIn: [[@muhammadmukarramali] ](https://www.linkedin.com/in/muhammadmukarramali/) 
+- 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/muhammadmukarramali/) 
 - 🐦 Twitter: @muhammadmukarramalie  
 - 📧 Email: hello@mukarramali.net  
 - 🌍 Portfolio: www.mukarramali.net
