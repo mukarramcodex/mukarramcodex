@@ -21,7 +21,8 @@
 
 ### 📫 How to Reach Me...  
 - 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/muhammadmukarramali/) 
-- 🐦 Twitter: @muhammadmukarramalie  
+- 🐦 Twitter/X: [@mukarramcodex](https://x.com/mukarramcodex)
+- 👉 Instagram: [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
 - 📧 Email: hello@mukarramali.net  
 - 🌍 Portfolio: www.mukarramali.net
 
