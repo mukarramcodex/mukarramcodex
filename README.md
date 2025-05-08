@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Mukarram (a.k.a @mukarramcodex)  
-**Full-Stack Developer | UX/UI Designer | SEO Specialist**  
+**Full-Stack Developer | CMS Developer | Full Stack PHP & WordPress Devloper | Search Engine Optimizer**  
 
 ### 👀 I’m Interested In...  
-- 🚀 Building scalable **MERN Stack** applications  
-- � Crafting intuitive **UX/UI designs** with Figma/Adobe XD  
+- 🚀 Building scalable **Full Stack** applications  
 - 📝 Developing **CMS solutions** (WordPress, Strapi, Sanity)  
 - 🔍 Optimizing websites for **SEO & performance**  
 - � Exploring **Jamstack** (Next.js, Gatsby) & **Headless CMS**  
