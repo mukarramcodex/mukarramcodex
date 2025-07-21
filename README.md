@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mukarram (a.k.a @mukarramcodex)  
-**Full-Stack Developer | CMS Developer | Full Stack PHP & WordPress Devloper | Search Engine Optimizer**  
+**Full Stack PHP & WordPress Devloper | CMS Developer | QA (SDET) Automator | Search Engine Optimizer**  
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications  
@@ -14,8 +14,8 @@
 - **AI/ML for Frontend** (TensorFlow.js, OpenAI integrations)  
 
 ### 💞️ I’m Looking to Collaborate On...  
-- **Open-source projects** in React/Node.js  
-- **Freelance gigs** for startups (Web Dev + Design + SEO)  
+- **Open-source projects** in PHP/Laravel & React/Node.js(Express JS)  
+- **Freelance gigs** for startups (Web Dev + SEO)  
 - **SEO-friendly web apps** with performance focus  
 
 ### 📫 How to Reach Me...  
