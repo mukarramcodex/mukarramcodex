@@ -3,7 +3,7 @@
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications  
-- 📝 Developing **CMS solutions** (WordPress, Strapi, Sanity)  
+- 📝 Developing **CMS & Admin solutions**  
 - 🔍 Optimizing websites for **SEO & performance**  
 - � Exploring **Jamstack** (Next.js, Gatsby) & **Headless CMS**  
 
