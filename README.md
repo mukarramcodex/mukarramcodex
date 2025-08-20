@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mukarram (a.k.a @mukarramcodex)  
-**Full Stack Devloper | CMS Developer | QA (SDET) Automator | Search Engine Optimizer**  
+**MERN Stack & PHP Laravel Developer | CMS (WordPress, Joomla, Durapal, Shopify) Developer | UI Developer | SEDT - QA | Technical SEO |**  
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications  
