@@ -7,28 +7,12 @@
 - 🔍 Optimizing websites for **SEO & performance**  
 - � Exploring **Jamstack** (Next.js, Gatsby) & **Headless CMS**  
 
-### 🌱 I’m Currently Learning...  
-- **Advanced React Patterns** (State machines, Micro-frontends)  
-- **GraphQL & Apollo** for efficient API management  
-- **Web3 & Blockchain** basics (Solidity, Ethers.js)  
-- **AI/ML for Frontend** (TensorFlow.js, OpenAI integrations)  
-
-### 💞️ I’m Looking to Collaborate On...  
-- **Open-source projects** in PHP/Laravel & React/Node.js(Express JS)  
-- **Freelance gigs** for startups (Web Dev + SEO)  
-- **SEO-friendly web apps** with performance focus  
-
 ### 📫 How to Reach Me...  
 - 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/muhammadmukarramali/) 
 - 🐦 Twitter/X: [@mukarramcodex](https://x.com/mukarramcodex)
 - 👉 Instagram: [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
 - 📧 Email: hello@mukarramali.net  
 - 🌍 Portfolio: www.mukarramali.net
-
-### 😄 Pronouns: He/Him  
-
-### ⚡ Fun Fact:  
-I once optimized a website’s SEO so well it ranked **#1 on Google** in 2 weeks! Also, I can recite the CSS Box Model in my sleep. 😴  
 
 ---
 
