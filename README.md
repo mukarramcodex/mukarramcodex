@@ -11,7 +11,7 @@
 - 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/muhammadmukarramali/) 
 - 🐦 Twitter/X: [@mukarramcodex](https://x.com/mukarramcodex)
 - 👉 Instagram: [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
-- 📧 Email: hello@mukarramali.net  
+- 📧 Email: info@mukarramali.net  
 - 🌍 Portfolio: www.mukarramali.net
 
 ---
