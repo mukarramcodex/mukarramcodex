@@ -19,10 +19,9 @@
 <!---
 mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-**Visitor Count**  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mukarramcodex.mukarramcodex)  
-
-**⚡ GitHub Stats**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical)  
 ![Mukarram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukarramcodex&show_icons=true&theme=radical)  
+
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical)  
