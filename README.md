@@ -25,3 +25,6 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
 
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukarramcodex&theme=react-dark)
+
