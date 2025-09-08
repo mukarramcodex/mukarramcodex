@@ -1,11 +1,12 @@
-# 👋 Hi, I’m Mukarram @mukarramcodex  
-**Full Stack Developer | MERN Stack & PHP Laravel Developer | CMS Developer | UI Developer | SEDT - QA | Technical SEO**  
+# 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/muhammadmukarramali/)  
+**Full Stack Developer | MERN Stack & PHP Laravel & Python Developer | SEDT - QA | Technical SEO**  
 
 ### 👀 I’m Interested In...  
-- 🚀 Building scalable **Full Stack** applications  
-- 📝 Developing **CMS & Admin solutions**  
-- 🔍 Optimizing websites for **SEO & performance**  
-- � Exploring **Jamstack** (Next.js, Gatsby) & **Headless CMS**  
+- 🚀 Building scalable **Full Stack** applications with seamless user experiences
+- 📝 Developing **CMS & Admin solutions**
+- 🏗️ Designing **scalable APIs, dashboards, and business-driven applications**
+- 🔍 Enhancing **technical SEO, site performance, and accessibility**
+- ⚡ Exploring **AI-powered tools, serverless architectures, and cloud integrations** 
 
 ### 📫 How to Reach Me...  
 - 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/muhammadmukarramali/) 
