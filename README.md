@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mukarram (a.k.a @mukarramcodex)  
+# 👋 Hi, I’m Mukarram @mukarramcodex  
 **Full Stack Developer | MERN Stack & PHP Laravel Developer | CMS Developer | UI Developer | SEDT - QA | Technical SEO**  
 
 ### 👀 I’m Interested In...  
