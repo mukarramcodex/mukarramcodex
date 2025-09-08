@@ -19,21 +19,6 @@
 <!---
 mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-<div>
-
-  <!-- Top Languages & Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex&layout=compact&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mukarramcodex&show_icons=true&theme=radical" height="150" />
-
-</div>
-
-<div>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical" height="150" />
-
-</div>
-
 <div align="center">
 
   <!-- PHP & Laravel -->
@@ -59,5 +44,16 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
 
 </div>
 
+<div>
+  <!-- Top Languages & Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukarramcodex&show_icons=true&theme=radical" height="150" />
 
+</div>
 
+<div>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical" height="150" />
+
+</div>
