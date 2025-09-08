@@ -19,7 +19,7 @@
 <!---
 mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex&layout=compact&theme=radical)
 
 ![Mukarram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukarramcodex&show_icons=true&theme=radical)  
 
