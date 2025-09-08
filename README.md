@@ -19,8 +19,6 @@
 <!---
 mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-## 📊 GitHub Stats & Analytics
-
 <div>
 
   <!-- Top Languages & Stats -->
@@ -35,17 +33,6 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
   <img src="https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical" height="150" />
 
 </div>
-
-<div align="center">
-
-  <!-- Activity Graph (full width) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukarramcodex&theme=react-dark" height="250" width="100%"/>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
