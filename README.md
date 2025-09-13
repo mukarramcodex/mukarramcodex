@@ -56,9 +56,7 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
 
 </div>
 
-<div>
-
-  <!-- Streak Stats -->
+<!-- Streak Stats -->
+<!-- <div>
   <img src="https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical" />
-
-</div>
+</div> -->
