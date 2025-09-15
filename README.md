@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/muhammadmukarramali/)  
+# 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/mukarramcodex/)  
 **Full Stack Developer | MERN Stack & PHP Laravel & Python Developer | SEDT - QA | Technical SEO**  
 
 ### 👀 I’m Interested In...  
@@ -9,7 +9,7 @@
 - ⚡ Exploring **AI-powered tools, serverless architectures, and cloud integrations** 
 
 ### 📫 How to Reach Me...  
-- 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/muhammadmukarramali/) 
+- 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/mukarramcodex/) 
 - 🐦 Twitter/X: [@mukarramcodex](https://x.com/mukarramcodex)
 - 👉 Instagram: [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
 - 📧 Email: info@mukarramali.net  
