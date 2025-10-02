@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/mukarramcodex/)  
-**Full Stack Developer | MERN & MEVN Stack & PHP Laravel & Python Developer | SEDT - QA | Technical SEO**  
+**Full Stack Developer | PHP Laravel Symfony | NuxtJs NextJs | MERN & MEVN Stack | MySQL Postgressql | Python Django | SEDT - QA | Technical SEO**  
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications with seamless user experiences
