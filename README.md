@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/mukarramcodex/)  
-**Full Stack Developer | PHP Laravel | Node JS | Python | React JS | Angular JS | Vue JS | MySQL PostgreSQL MongoDB | Supabase, Firebase | QA Automation**  
+**Full Stack Developer | MERN | MEAN | MEVN | React Native | Electron JS | PHP Laravel | CMS Developer |**  
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications with seamless user experiences
