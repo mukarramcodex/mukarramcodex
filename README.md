@@ -66,12 +66,12 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 
-<div>
+<!-- <div>
   <!-- Top Languages & Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex&layout=compact&theme=radical" height="150" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex&layout=compact&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=mukarramcodex&show_icons=true&theme=radical" height="150" />
 
-</div>
+</div> -->
 
 <!-- Streak Stats -->
 <!-- <div>
