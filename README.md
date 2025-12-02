@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/mukarramcodex/)  
-**Full Stack Developer | MERN | MEAN | MEVN | React Native | Electron JS | PHP Laravel | CMS Developer |**  
+**Full Stack Developer | MERN | MEAN | MEVN | React Native | Electron JS | PHP Laravel | CMS Developer & Technical SEO Specialist |**  
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications with seamless user experiences
