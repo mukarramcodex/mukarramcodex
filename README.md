@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/mukarramcodex/)  
-**Full Stack Front End Developer | ReactJS/NextJS | Angular | VueJS/NuxtJS | React Native | Flutter | Electron JS | UI/UX Focused | Modern Web & Mobile Interfaces |**  
+**Full Stack Front End Developer | ReactJS/NextJS | Angular | VueJS/NuxtJS | React Native | Flutter | Electron JS | UI/UX Focused | Modern Web & Mobile Interfaces**  
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications with seamless user experiences
