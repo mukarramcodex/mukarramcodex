@@ -17,9 +17,6 @@
 
 ---
 
-<!---
-mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -34,13 +31,6 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
 ### 🔗 APIs & Architecture
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
@@ -51,14 +41,6 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Databases & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-
 ### 📝 CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
@@ -66,14 +48,3 @@ mukarramcodex/mukarramcodex is a ✨ special ✨ repository because its `README.
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 
-<!-- <div>
-  <!-- Top Languages & Stats -->
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex&layout=compact&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mukarramcodex&show_icons=true&theme=radical" height="150" />
-
-</div> -->
-
-<!-- Streak Stats -->
-<!-- <div>
-  <img src="https://streak-stats.demolab.com/?user=mukarramcodex&theme=radical" />
-</div> -->
