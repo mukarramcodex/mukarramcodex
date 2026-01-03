@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/mukarramcodex/)  
-**Software Engineer | Full Stack Front End & CMS Developer | Modern Web, Mobile & Desktop Interfaces | Performance & SEO Driven**  
+**Full-Stack Front-End Software Engineer with expertise in modern JavaScript frameworks, UI/UX-driven development, API integration, CMS solutions, performance optimization, and scalable web applications.**  
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications with seamless user experiences
