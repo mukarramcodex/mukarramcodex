@@ -15,9 +15,9 @@
 - 📧 Email: info@mukarramali.net  
 - 🌍 Portfolio: www.mukarramali.net
 
+<!-- 
 ---
 
-<!-- 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -111,8 +111,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
--->
 ---
+-->
 
 ## 📊 GitHub Stats
 
