@@ -1,5 +1,9 @@
 # 👋 Hi, I’m [Mukarram](https://www.linkedin.com/in/mukarramcodex/)  
-**Full-Stack Front-End Software Engineer with expertise in modern JavaScript frameworks, UI/UX-driven development, API integration, CMS solutions, performance optimization, and scalable web applications.**  
+**Full Stack Developer | Software Engineer | Tech Leader**  
+
+I’m a results‑driven Full Stack Developer with 3+ years of hands‑on experience building scalable, high‑performance, and business‑oriented web applications. I specialize in PHP/Laravel, WordPress, and modern front‑end frameworks, with strong expertise in UI/UX, performance optimization, SEO, and Technical SEO.
+
+I enjoy turning complex problems into clean, maintainable solutions and helping businesses grow digitally through robust and user‑focused products.
 
 ### 👀 I’m Interested In...  
 - 🚀 Building scalable **Full Stack** applications with seamless user experiences
@@ -12,7 +16,7 @@
 - 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/mukarramcodex/) 
 - 🐦 Twitter/X: [@mukarramcodex](https://x.com/mukarramcodex)
 - 👉 Instagram: [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
-- 📧 Email: info@mukarramali.net  
+- 📧 Email: infomukarram272@gmail.com  
 - 🌍 Portfolio: www.mukarramali.net
 
 <!-- 
