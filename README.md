@@ -16,7 +16,7 @@ I enjoy turning complex problems into clean, maintainable solutions and helping 
 - 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/mukarramcodex/) 
 - 🐦 Twitter/X: [@mukarramcodex](https://x.com/mukarramcodex)
 - 👉 Instagram: [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
-- 📧 Email: infomukarram272@gmail.com  
+- 📧 Email: info@mukarramali.net  
 - 🌍 Portfolio: www.mukarramali.net
 
 <!-- 
