@@ -1,41 +1,48 @@
-# 👋 Hi, I’m [Mukarram Ali](https://www.linkedin.com/in/mukarramcodex/)
+# 👋 Hi, I'm [Mukarram Ali](https://www.linkedin.com/in/mukarramcodex/)
 
 ### Full-Stack Software & Cloud Engineer
 
-I'm **Mukarram Ali**, a **Full-Stack Software & Cloud Engineer** passionate about designing, developing, and deploying **scalable software systems, cloud-native applications, and modern digital products**.
+I'm **Mukarram Ali**, a **Full-Stack Software & Cloud Engineer** focused on building **scalable software systems, cloud-enabled applications, robust backend services, and modern digital products**.
 
-I work across the full software development lifecycle — from **frontend architecture and backend engineering to APIs, databases, cloud infrastructure, and deployment**. I enjoy solving complex problems, learning new technologies, and turning ideas into reliable, production-ready solutions.
+I work across the software development lifecycle — from **frontend engineering and backend architecture to API development, databases, cloud infrastructure, deployment, and system design**.
+
+My current engineering focus is primarily on **backend development, cloud engineering, scalable architectures, AI-powered systems, and data-driven applications**.
+
+I enjoy turning complex requirements into **clean, maintainable, reliable, and production-ready software**.
+
 ---
 
 ## 🧑‍💻 About Me
 
 * 💻 **Full-Stack Software & Cloud Engineer**
-* ☁️ Interested in **Cloud Architecture & Cloud-Native Development**
-* 🤖 Building and exploring **AI-powered software & data solutions**
-* 🏗️ Interested in **scalable system architecture and backend engineering**
-* 🌐 Experienced in building modern **web applications and APIs**
-* 📱 Exploring **cross-platform mobile application development**
-* 📚 Continuously learning and improving my engineering skills
+* ⚙️ Focused on **Backend Engineering & API Development**
+* ☁️ Building and exploring **Cloud-Native & Cloud-Connected Systems**
+* 🏗️ Interested in **System Design, Software Architecture & Scalability**
+* 🗄️ Working with **Relational Databases & Data Platforms**
+* 🤖 Exploring **AI Engineering & Data-Driven Applications**
+* 🌐 Building modern **Full-Stack Web Applications & Software Platforms**
+* 🔐 Interested in **Secure, Reliable & Maintainable Systems**
+* 📚 Continuously learning, experimenting, and improving as an engineer
 
 ---
 
 ## 🛠️ Technology Stack
 
-### 💻 Software Engineering
+### 💻 Programming Languages
 
 **JavaScript · TypeScript · Python · C# · Java · PHP**
 
-### 🎨 Frontend
+### 🎨 Frontend Engineering
 
 **React · Next.js · Angular · HTML5 · CSS3**
 
-### ⚙️ Backend
+### ⚙️ Backend Engineering
 
-**Node.js · Express.js · NestJS · Python · FastAPI · ASP.NET**
+**Node.js · Express.js · NestJS · Python · FastAPI · ASP.NET · REST APIs**
 
 ### ☁️ Cloud & Infrastructure
 
-**Google Cloud Platform (GCP) · Microsoft Azure · Cloud Architecture · Deployment · APIs · Server-Side Systems**
+**Google Cloud Platform (GCP) · Microsoft Azure · Cloud Architecture · Cloud Services · Deployment · Server-Side Systems**
 
 ### 🗄️ Databases & Data
 
@@ -45,33 +52,55 @@ I work across the full software development lifecycle — from **frontend archit
 
 **Python · FastAPI · AI-Powered Applications · Data Analytics · BigQuery**
 
-### 🔧 Tools & Practices
+### 🔧 Tools & Engineering Practices
 
-**Git · GitHub · REST APIs · Software Architecture · Responsive Design · CI/CD · Technical SEO**
+**Git · GitHub · REST APIs · API Integration · Software Architecture · System Design · CI/CD · Cloud Deployment · Technical SEO**
 
 ---
 
 ## 🚀 What I Build
 
-I enjoy working on:
+I enjoy designing and developing:
 
-* 🌐 Full-Stack Software Applications
-* ☁️ Cloud-Native & Cloud-Connected Systems
-* ⚙️ Backend Services & REST APIs
-* 🏢 Business & Enterprise Software
-* 🤖 AI-Powered Applications
-* 📊 Data & Analytics Platforms
-* 📱 Cross-Platform Mobile Applications
-* 🔐 Secure & Maintainable Software Systems
-* 🧩 Scalable Digital Products
+* ⚙️ **Backend Services & REST APIs**
+* ☁️ **Cloud-Native & Cloud-Connected Applications**
+* 🌐 **Full-Stack Web Applications**
+* 🏢 **Business & Enterprise Software**
+* 🤖 **AI-Powered Applications**
+* 📊 **Data & Analytics Platforms**
+* 🗄️ **Database-Driven Systems**
+* 🧩 **Scalable Software Platforms**
+* 🔐 **Secure & Maintainable Software Systems**
+* 🚀 **Production-Ready Cloud Deployments**
+
+---
+
+## 🏗️ Engineering Interests
+
+My strongest areas of interest include:
+
+**Backend Engineering**
+Designing reliable APIs, services, business logic, and server-side architectures.
+
+**Cloud Engineering**
+Building, deploying, and managing applications using modern cloud platforms and infrastructure.
+
+**System Architecture**
+Designing software systems that are maintainable, scalable, resilient, and prepared for future growth.
+
+**AI & Data Engineering**
+Building AI-enabled applications and working with data platforms, analytics, and intelligent software systems.
+
+**Full-Stack Development**
+Connecting well-structured backend systems with modern, intuitive frontend applications.
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-I'm continuously expanding my engineering capabilities around:
+I'm continuously expanding my engineering capabilities across:
 
-**Cloud Architecture · ASP.NET / .NET · Node.js · Python / FastAPI · Angular · React / Next.js · Flutter · AI Engineering · Data Engineering · Distributed Systems**
+**Cloud Architecture · .NET / ASP.NET · Node.js · Python / FastAPI · React · Next.js · Angular · AI Engineering · Data Engineering · System Design · Distributed Systems · Cloud Infrastructure**
 
 ---
 
@@ -79,33 +108,40 @@ I'm continuously expanding my engineering capabilities around:
 
 > **Build thoughtfully. Engineer for scale. Deploy with confidence.**
 
-I believe great software is more than just writing code.
-It's about **understanding the problem, designing the right architecture, writing maintainable software, and delivering solutions that can evolve with real-world needs.**
+I believe great software isn't simply about writing code.
+
+It's about **understanding the problem, designing the right architecture, choosing appropriate technologies, writing maintainable software, and building systems that can evolve with real-world needs.**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in **software engineering, cloud computing, AI, system architecture, open source, and building meaningful technology**.
+I'm interested in **software engineering, backend systems, cloud computing, AI, system architecture, open source, and building meaningful technology**.
 
-If you're working on something interesting or looking for a developer to collaborate with, feel free to connect.
+If you're working on an interesting project, exploring a technical idea, or looking for someone to collaborate with, feel free to connect.
 
 **Build • Learn • Engineer • Scale 🚀**
 
+---
 
-### 📫 How to Reach Me...  
-- 💼 LinkedIn: [@muhammadmukarramali](https://www.linkedin.com/in/mukarramcodex/) 
-- 🐦 Twitter/X: [@mukarramcodex](https://x.com/mukarramcodex)
-- 👉 Instagram: [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
-- 📧 Email: info@mukarramali.net  
-- 🌍 Portfolio: www.mukarramali.net
+## 📫 Find Me Online
 
-## 📊 GitHub Stats
+* 💼 **LinkedIn:** [@mukarramcodex](https://www.linkedin.com/in/mukarramcodex/)
+* 🐦 **X / Twitter:** [@mukarramcodex](https://x.com/mukarramcodex)
+* 📸 **Instagram:** [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
+* 🌍 **Portfolio:** [mukarramali.com](https://mukarramali.com/)
+* 📧 **Email:** [info@mukarramali.net](mailto:work@mukarramali.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukarramcodex&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mukarramcodex&theme=tokyonight&hide_border=true&cache_seconds=1800)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukarramcodex\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=mukarramcodex\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukarramcodex\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
+
+---
+
+### ⚡ Building software that connects **code, cloud, data, and real-world solutions.**
