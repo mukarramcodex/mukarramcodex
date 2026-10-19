@@ -128,9 +128,9 @@ If you're working on an interesting project, exploring a technical idea, or look
 
 * 💼 **LinkedIn:** [@mukarramcodex](https://www.linkedin.com/in/mukarramcodex/)
 * 🐦 **X / Twitter:** [@mukarramcodex](https://x.com/mukarramcodex)
-* 📸 **Instagram:** [@mukarramcodex](https://www.instagram.com/mukarramcodex/)
+* 📸 **Instagram:** [@mukarramalidev](https://www.instagram.com/mukarramalidev/)
 * 🌍 **Portfolio:** [mukarramali.com](https://mukarramali.com/)
-* 📧 **Email:** [info@mukarramali.net](mailto:work@mukarramali.com)
+* 📧 **Email:** [work@mukarramali.com](mailto:work@mukarramali.com)
 
 ---
 
